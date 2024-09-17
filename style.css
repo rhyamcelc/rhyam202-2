@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(153, 50, 204, 0.817);
+    background-color: rgba(0, 102, 255, 0.817);
     margin: 0px
 }
 
@@ -8,10 +8,10 @@ nav a {
     padding: 2px;
     font-size: 20px;
     text-decoration: none;
-    color:rgba(204, 168, 238, 0.192)
+    color:rgba(0, 0, 0, 0.192)
 }
 h1 {
-    color: darkturquoise;
+    color: rgb(209, 0, 0);
 }
 .eduardo {
     font-style: italic;
